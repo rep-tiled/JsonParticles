@@ -1,0 +1,11 @@
+/*vars*/
+:root {
+--back-color: #1E1E1E;
+--text-color: aliceblue;
+}
+
+/*bpdy setup*/
+body{
+    background-color: var(--back-color);
+    color: var(--text-color);
+}
